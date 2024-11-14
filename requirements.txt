@@ -1,0 +1,8 @@
+seaborn
+pandas
+scikit-learn
+jupyter
+jupytext
+mystmd
+ucimlrepo
+myst-nb

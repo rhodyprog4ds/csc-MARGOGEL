@@ -1,0 +1,19 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a4b7b85e-394c-48b2-9486-2553e6a06998
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/rhodyprog4ds/comparison_report
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  # project:
+  #   banner: 310_logo.png
+  exclude:
+    - README.md
+site:
+  template: article-theme
+  options:
+    favicon: 310_favicon.ico
+    logo: 310_logo.png
